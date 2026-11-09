@@ -1,0 +1,14 @@
+{
+  "name": "fedorbell",
+  "displayName": "Fedorbell",
+  "version": "0.3.0",
+  "description": "Richer replies for agy: themed tables, mermaid diagrams, text figures, real bar/line/pie charts and copy cards for suggested prompts, commands and code, with 13 themes saved across sessions. Inspired by prismantis for Claude Code.",
+  "logo": "assets/logo.svg",
+  "suggestedPrompts": [
+    "Run fedorbell setup",
+    "Show a fedorbell demo",
+    "Chart these numbers as a bar chart: Q1 12, Q2 18, Q3 9"
+  ],
+  "author": { "name": "LinhDoHoang", "url": "https://github.com/LinhDoHoang" },
+  "repository": "https://github.com/LinhDoHoang/fedorbell"
+}

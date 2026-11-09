@@ -1,0 +1,9 @@
+{
+  "name": "fedorbell",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --test plugins/fedorbell/tests/fedorbell.test.mjs",
+    "validate": "agy plugin validate plugins/fedorbell --strict"
+  }
+}

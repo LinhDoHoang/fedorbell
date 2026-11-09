@@ -1,0 +1,223 @@
+﻿{
+    "mono":  {
+                 "palette":  [
+                                 "#e6e6e6",
+                                 "#bdbdbd",
+                                 "#9e9e9e",
+                                 "#d6d6d6",
+                                 "#8a8a8a",
+                                 "#c4c4c4"
+                             ],
+                 "markers":  {
+                                 "ok":  "[ok]",
+                                 "warn":  "[!]",
+                                 "error":  "[x]",
+                                 "info":  "[i]",
+                                 "bullet":  "-"
+                             }
+             },
+    "catppuccin":  {
+                       "palette":  [
+                                       "#cba6f7",
+                                       "#f38ba8",
+                                       "#fab387",
+                                       "#f9e2af",
+                                       "#a6e3a1",
+                                       "#89b4fa"
+                                   ],
+                       "markers":  {
+                                       "ok":  "🟢",
+                                       "warn":  "🟡",
+                                       "error":  "🔴",
+                                       "info":  "🔵",
+                                       "bullet":  "•"
+                                   }
+                   },
+    "dracula":  {
+                    "palette":  [
+                                    "#bd93f9",
+                                    "#ff79c6",
+                                    "#ffb86c",
+                                    "#f1fa8c",
+                                    "#50fa7b",
+                                    "#8be9fd"
+                                ],
+                    "markers":  {
+                                    "ok":  "🟩",
+                                    "warn":  "🟧",
+                                    "error":  "🟥",
+                                    "info":  "🟪",
+                                    "bullet":  "▸"
+                                }
+                },
+    "nord":  {
+                 "palette":  [
+                                 "#88c0d0",
+                                 "#bf616a",
+                                 "#d08770",
+                                 "#ebcb8b",
+                                 "#a3be8c",
+                                 "#b48ead"
+                             ],
+                 "markers":  {
+                                 "ok":  "✅",
+                                 "warn":  "⚠️",
+                                 "error":  "❌",
+                                 "info":  "🔹",
+                                 "bullet":  "◦"
+                             }
+             },
+    "solarized":  {
+                      "palette":  [
+                                      "#268bd2",
+                                      "#dc322f",
+                                      "#cb4b16",
+                                      "#b58900",
+                                      "#859900",
+                                      "#2aa198"
+                                  ],
+                      "markers":  {
+                                      "ok":  "✔",
+                                      "warn":  "▲",
+                                      "error":  "✖",
+                                      "info":  "●",
+                                      "bullet":  "›"
+                                  }
+                  },
+    "gruvbox":  {
+                    "palette":  [
+                                    "#fb4934",
+                                    "#fe8019",
+                                    "#fabd2f",
+                                    "#b8bb26",
+                                    "#8ec07c",
+                                    "#83a598"
+                                ],
+                    "markers":  {
+                                    "ok":  "🟢",
+                                    "warn":  "🟠",
+                                    "error":  "🔴",
+                                    "info":  "🟡",
+                                    "bullet":  "»"
+                                }
+                },
+    "tokyo-night":  {
+                        "palette":  [
+                                        "#7aa2f7",
+                                        "#f7768e",
+                                        "#ff9e64",
+                                        "#e0af68",
+                                        "#9ece6a",
+                                        "#bb9af7"
+                                    ],
+                        "markers":  {
+                                        "ok":  "🟢",
+                                        "warn":  "🟡",
+                                        "error":  "🔴",
+                                        "info":  "🔵",
+                                        "bullet":  "•"
+                                    }
+                    },
+    "one-dark":  {
+                     "palette":  [
+                                     "#61afef",
+                                     "#e06c75",
+                                     "#d19a66",
+                                     "#e5c07b",
+                                     "#98c379",
+                                     "#c678dd"
+                                 ],
+                     "markers":  {
+                                     "ok":  "🟢",
+                                     "warn":  "🟡",
+                                     "error":  "🔴",
+                                     "info":  "🔵",
+                                     "bullet":  "•"
+                                 }
+                 },
+    "monokai":  {
+                    "palette":  [
+                                    "#66d9ef",
+                                    "#f92672",
+                                    "#fd971f",
+                                    "#e6db74",
+                                    "#a6e22e",
+                                    "#ae81ff"
+                                ],
+                    "markers":  {
+                                    "ok":  "🟢",
+                                    "warn":  "🟡",
+                                    "error":  "🔴",
+                                    "info":  "🔵",
+                                    "bullet":  "•"
+                                }
+                },
+    "rose-pine":  {
+                      "palette":  [
+                                      "#c4a7e7",
+                                      "#eb6f92",
+                                      "#f6c177",
+                                      "#ebbcba",
+                                      "#9ccfd8",
+                                      "#31748f"
+                                  ],
+                      "markers":  {
+                                      "ok":  "🟢",
+                                      "warn":  "🟡",
+                                      "error":  "🔴",
+                                      "info":  "🔵",
+                                      "bullet":  "•"
+                                  }
+                  },
+    "github-dark":  {
+                        "palette":  [
+                                        "#58a6ff",
+                                        "#ff7b72",
+                                        "#ffa657",
+                                        "#d29922",
+                                        "#3fb950",
+                                        "#bc8cff"
+                                    ],
+                        "markers":  {
+                                        "ok":  "🟢",
+                                        "warn":  "🟡",
+                                        "error":  "🔴",
+                                        "info":  "🔵",
+                                        "bullet":  "•"
+                                    }
+                    },
+    "everforest":  {
+                       "palette":  [
+                                       "#7fbbb3",
+                                       "#e67e80",
+                                       "#e69875",
+                                       "#dbbc7f",
+                                       "#a7c080",
+                                       "#d699b6"
+                                   ],
+                       "markers":  {
+                                       "ok":  "🟢",
+                                       "warn":  "🟡",
+                                       "error":  "🔴",
+                                       "info":  "🔵",
+                                       "bullet":  "•"
+                                   }
+                   },
+    "kanagawa":  {
+                     "palette":  [
+                                     "#7e9cd8",
+                                     "#e46876",
+                                     "#ffa066",
+                                     "#e6c384",
+                                     "#98bb6c",
+                                     "#957fb8"
+                                 ],
+                     "markers":  {
+                                     "ok":  "🟢",
+                                     "warn":  "🟡",
+                                     "error":  "🔴",
+                                     "info":  "🔵",
+                                     "bullet":  "•"
+                                 }
+                 }
+}
